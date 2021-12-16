@@ -111,7 +111,7 @@ public class BuyerService {
             int ten=left2/10;
             int left3=left2 %10;
             int five= left3/5;
-            return "para üstünüz =>" +fifty+ " ellilik "+ twenty+ " yirmilik "+ ten+ " onluk "+ five+ "beşlik";
+            return "para üstünüz alın  =>" + fifty+ " ellilik "+ twenty+ " yirmilik "+ ten+ " onluk "+ five+ "beşlik";
         }
 
     }
